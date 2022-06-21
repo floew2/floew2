@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a geospatial data scientist and remote sensing specialist.
+
 <!--
 **floew2/floew2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

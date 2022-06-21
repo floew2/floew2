@@ -4,7 +4,7 @@ I am a geospatial data scientist and remote sensing specialist.
 
 Languages and Tools:
 
-flask gcp javascript postgresql python tensorflow 
+Python, R, JavaScript, TensorFlow
 
 <!--
 **floew2/floew2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

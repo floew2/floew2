@@ -23,7 +23,7 @@ Python, R, JavaScript, TensorFlow
 
 ### References & Certifications
 
-g.dev/fabianloew
+
 
 <!--
 **floew2/floew2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

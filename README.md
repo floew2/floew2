@@ -6,7 +6,7 @@ Languages & Tools:
 
 Python, R, JavaScript, TensorFlow
 
-(This site is under construction, new repos from exciting projects will follow soon...)
+(This site is under construction, new repos from exciting projects about satellite based crop type mapping, terrestrial oil spill detection, or armed conflict prediction with open source data will follow soon...)
 
 
 ### Selected (recent) Publications:

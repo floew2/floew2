@@ -24,8 +24,6 @@
 
 ### References & Certifications
 
-https://g.dev/fabianloew
-
 FME Certified Professional (https://www.safe.com/partners/certification/wall-of-fame/)
 
 IHK Data Analyst

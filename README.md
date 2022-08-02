@@ -5,7 +5,7 @@
 **Languages & Tools that I use:** Python, R, JavaScript, Google Earth Engine, TensorFlow, ESRI ArcGIS, QGIS, FME Desktop / Server, KNIME
 
 
-### Selected (recent) Publications:
+### Selected (recent) publications:
 
 2022		
 * Löw, F. et al. (2022). Land cover change detection in the Aralkum with multi-source satellite datasets. GIScience & Remote Sensing, 59(1), 17–35. https://doi.org/10.1080/15481603.2021.2009232

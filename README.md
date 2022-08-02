@@ -1,8 +1,9 @@
 # Hi there 👋
 
+**About me:** 
 I am a geospatial data scientist & remote sensing expert. This site is under construction, new repos from exciting projects about satellite based crop type mapping, terrestrial oil spill detection, or armed conflict prediction with open source data will follow soon...
 
-Languages & Tools:
+**Languages & Tools that I use:**
 Python, R, JavaScript, Google Earth Engine, TensorFlow, ESRI ArcGIS, QGIS, FME Desktop / Server, KNIME
 
 
@@ -26,9 +27,7 @@ Python, R, JavaScript, Google Earth Engine, TensorFlow, ESRI ArcGIS, QGIS, FME D
 ### References & Certifications
 
 https://g.dev/fabianloew
-
 FME Certified Professional (https://www.safe.com/partners/certification/wall-of-fame/)
-
 IHK Data Analyst
 
 <!--

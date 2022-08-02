@@ -26,7 +26,9 @@ Python, R, JavaScript, Google Earth Engine, TensorFlow, ESRI ArcGIS, QGIS, FME D
 ### References & Certifications
 
 https://g.dev/fabianloew
+
 FME Certified Professional (https://www.safe.com/partners/certification/wall-of-fame/)
+
 IHK Data Analyst
 
 <!--

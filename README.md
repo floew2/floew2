@@ -5,10 +5,6 @@ I am a geospatial data scientist & remote sensing expert. My site is under const
 Languages & Tools:
 Python, R, JavaScript, Google Earth Engine, TensorFlow, ESRI ArcGIS, QGIS, FME Desktop / Server, KNIME
 
-Certifications:
-FME Certified Professional
-IHK Data Analyst
-
 
 ### Selected (recent) Publications:
 
@@ -30,6 +26,8 @@ IHK Data Analyst
 ### References & Certifications
 
 https://g.dev/fabianloew
+FME Certified Professional (https://www.safe.com/partners/certification/wall-of-fame/)
+IHK Data Analyst
 
 <!--
 **floew2/floew2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

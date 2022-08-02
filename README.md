@@ -1,12 +1,13 @@
 # Hi there 👋
 
-I am a geospatial data scientist & remote sensing expert.
+I am a geospatial data scientist & remote sensing expert. My site is under construction, new repos from exciting projects about satellite based crop type mapping, terrestrial oil spill detection, or armed conflict prediction with open source data will follow soon...
 
 Languages & Tools:
+Python, R, JavaScript, Google Earth Engine, TensorFlow, ESRI ArcGIS, QGIS, FME Desktop / Server, KNIME
 
-Python, R, JavaScript, TensorFlow
-
-(This site is under construction, new repos from exciting projects about satellite based crop type mapping, terrestrial oil spill detection, or armed conflict prediction with open source data will follow soon...)
+Certifications:
+FME Certified Professional
+IHK Data Analyst
 
 
 ### Selected (recent) Publications:

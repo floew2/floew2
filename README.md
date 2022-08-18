@@ -5,7 +5,7 @@
 **Languages & Tools that I use:** Python, R, JavaScript, Google Earth Engine, TensorFlow, ESRI ArcGIS, QGIS, FME Desktop / Server, KNIME
 
 
-### Selected (recent) publications:
+### Selected & recent publications:
 
 2022		
 * Löw, F. et al. (2022). Land cover change detection in the Aralkum with multi-source satellite datasets. GIScience & Remote Sensing, 59(1), 17–35. https://doi.org/10.1080/15481603.2021.2009232
@@ -20,7 +20,15 @@
 
 
 2017		
-* Löw, F. et al. (2017). Regional-scale monitoring of cropland intensity & productivity with multi-source satellite image time series. GIScience & Remote Sensing, 55(4), 1–29. https://doi.org/10.1080/15481603.2017.1414010 
+* Löw, F. et al. (2017). Regional-scale monitoring of cropland intensity & productivity with multi-source satellite image time series. GIScience & Remote Sensing, 55(4), 1–29. https://doi.org/10.1080/15481603.2017.1414010
+
+
+2013
+* Löw, F., Navratil, P., Kotte, K., Schöler, H. F. F., & Bubenzer, O. (2013). Remote sensing based analysis of landscape change in the desiccated seabed of the Aral Sea - A potential tool for assessing the hazard degree of dust and salt storms. Environmental Monitoring and Assessment, 185(10), 8303–8319. https://doi.org/10.1007/s10661-013-3174-7
+
+
+2012
+* Kotte, K., Löw, F., Huber, S. G., Krause, T., Mulder, I., & Schöler, H. F. (2012). Organohalogen emissions from saline environments-spatial extrapolation using remote sensing as most promising tool. Biogeosciences, 9(3). https://doi.org/10.5194/bg-9-1225-2012
 
 ### References & Certifications
 

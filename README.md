@@ -21,6 +21,7 @@
 
 2017		
 * Löw, F. et al. (2017). Regional-scale monitoring of cropland intensity & productivity with multi-source satellite image time series. GIScience & Remote Sensing, 55(4), 1–29. https://doi.org/10.1080/15481603.2017.1414010
+* Waldner, F., Hansen, M. C. M. C., Potapov, P. V., Löw, F., Newby, T., Ferreira, S., & Defourny, P. (2017). National-scale cropland mapping based on spectral-temporal features and outdated land cover information. Plos One, 12(8). https://doi.org/10.1371/journal.pone.0181911
 
 
 2013

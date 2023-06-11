@@ -4,6 +4,11 @@
 
 **Languages & Tools that I use:** Python, R, JavaScript, Google Earth Engine, TensorFlow, ESRI ArcGIS, QGIS, FME Desktop / Server, KNIME
 
+### Certifications
+
+* TensorFlow Developer Certificate
+* FME Certified Professional (https://www.safe.com/partners/certification/wall-of-fame/)
+* IHK Data Analyst
 
 ### Selected & recent publications:
 
@@ -31,11 +36,6 @@
 2012
 * Kotte, K., Löw, F., Huber, S. G., Krause, T., Mulder, I., & Schöler, H. F. (2012). Organohalogen emissions from saline environments-spatial extrapolation using remote sensing as most promising tool. Biogeosciences, 9(3). https://doi.org/10.5194/bg-9-1225-2012
 
-### References & Certifications
-
-FME Certified Professional (https://www.safe.com/partners/certification/wall-of-fame/)
-
-IHK Data Analyst
 
 <!--
 **floew2/floew2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

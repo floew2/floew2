@@ -7,7 +7,7 @@
 ### Certifications
 
 * TensorFlow Developer Certificate
-* FME Certified Professional (https://www.safe.com/partners/certification/wall-of-fame/)
+* FME Certified Professional
 * IHK Data Analyst
 
 ### Selected & recent publications:

@@ -10,6 +10,12 @@
 * FME Certified Professional
 * IHK Data Analyst
 
+### Code snippets
+https://gist.github.com/floew2
+
+### My ESRI StoryMaps
+https://arcg.is/140m0C2
+
 ### Selected & recent publications:
 
 2022		

@@ -5,7 +5,6 @@
 **Languages & Tools that I use:** Python, R, JavaScript, Google Earth Engine, TensorFlow, ESRI ArcGIS, QGIS, FME Desktop / Server, KNIME
 
 ### Certifications
-
 * TensorFlow Developer Certificate
 * FME Certified Professional
 * IHK Data Analyst
@@ -16,7 +15,7 @@ https://gist.github.com/floew2
 ### My ESRI StoryMaps
 https://arcg.is/140m0C2
 
-### Selected & recent publications:
+### Selected GIS and remote sensing publications:
 
 2022		
 * Löw, F. et al. (2022). Land cover change detection in the Aralkum with multi-source satellite datasets. GIScience & Remote Sensing, 59(1), 17–35. https://doi.org/10.1080/15481603.2021.2009232

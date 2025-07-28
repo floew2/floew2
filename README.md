@@ -59,21 +59,21 @@ Currently building end-to-end MLOps pipelines for satellite-based damage assessm
 
 Here are highlights from my pinned repositories.
 
-#### 1. Production-Grade MLOps: Building Damage Classification
-This repository demonstrates a complete, end-to-end MLOps pipeline for automated building damage assessment from satellite imagery. It showcases the entire ML lifecycle, from data and experiment management to a production-ready, containerized API.
+#### 1. Production-Grade MLOps: Building Damage Classification in Satellite Images
+End-to-end MLOps pipeline for automated building damage assessment from satellite imagery using YOLOv11.emonstrates complete ML lifecycle from data versioning, experiment management to a production-ready, containerized API.
 
-- **Key Features**: Microservices architecture with JWT authentication, automated CI/CD with model promotion logic, and real-time performance monitoring.
+- **Key Features**: Microservices architecture with JWT authentication, automated CI/CD with model promotion logic, real-time monitoring and drift detection and production-ready API serving.
 - **Tech Used:**
-  - **Computer Vision:** `YOLOv5`, `PyTorch`
+  - **Computer Vision:** `YOLOv11`, `PyTorch`
   - **Pipeline & Versioning:** `DVC`, `GitHub Actions (CI/CD)`
   - **Experiment Tracking:** `MLflow`
   - **Model Serving:** `BentoML`, `Docker`
   - **Monitoring:** `Prometheus`, `Grafana`
 
 #### 2. Multi-temporal Oil Spill Detection
-This project details a robust machine learning system for detecting terrestrial oil spills using multi-temporal Sentinel-2 imagery. The core challenge was handling extreme class imbalance and spectral confusion, which was solved through a temporal change detection methodology.
+Machine learning system for detecting terrestrial oil spills using multi-temporal Sentinel-2 imagery. Handles extreme class imbalance and spectral confusion through temporal change detection.
 
-- **Key Innovation**: Uses multi-temporal baseline composites to reliably detect changes and a custom data augmentation strategy to overcome extreme data scarcity. The validated approach achieved >95% accuracy with spatial constraints.
+- **Key Features**: Uses multi-temporal baseline composites to reliably detect changes and a custom data augmentation strategy to overcome extreme data scarcity. The validated approach achieved >95% accuracy with spatial constraints.
 - **Tech Used:**
   - **Computer Vision:** `U-Net`, `PyTorch`, `Segmentation Models`
   - **Geospatial:** `Sentinel-2`, `Microsoft Planetary Computer`
@@ -93,7 +93,23 @@ This project details a robust machine learning system for detecting terrestrial 
 - **Certified FME Professional**, Safe Software.
 - **Professional Scrum Master™ (PSM I™)**, Scrum.org.
 
----
+### 🛠️ Technical Skills
+
+**ML Engineering:**
+- **Frameworks**: PyTorch, TensorFlow, YOLOv11, segmentation-models-pytorch
+- **MLOps**: DVC, MLflow, Docker, Kubernetes, BentoML, GitHub Actions
+- **Monitoring**: Prometheus, Grafana, Evidently (drift detection)
+
+**Geospatial Technologies:**
+**Languages**: Python, R, JavaScript, SQL
+**GIS**: ArcGIS, QGIS, FME, PostGIS
+**Data**: Sentinel-1/2, Landsat, Planet, MODIS, Very High Resolution optical imagery
+**Specialization**: Multi-temporal analysis, change detection, very high resolution optical satellite image analysis
+
+**Cloud & DevOps:**
+Platforms: Google Earth Engine,  Microsoft Planetary Computer
+Orchestration: Airflow, Kubernetes
+APIs: FastAPI, RESTful services, STAC
 
 ### 📫 Let's Connect
 

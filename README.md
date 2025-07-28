@@ -40,13 +40,15 @@ Currently building end-to-end MLOps pipelines for satellite-based damage assessm
       <strong>Geospatial & Remote Sensing</strong><br>
       <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"/>
       <img src="https://img.shields.io/badge/ArcGIS%20Pro-007AC2?style=for-the-badge" alt="ArcGIS Pro"/>
-      <img src="https.img.shields.io/badge/FME-F58220?style=for-the-badge" alt="FME"/>
+      <img src="https://img.shields.io/badge/FME-FF6600?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg==&logoColor=white" alt="FME"/>
       <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge" alt="Google Earth Engine"/>
       <img src="https://img.shields.io/badge/GeoPandas-150458?style=for-the-badge" alt="GeoPandas"/>
       <img src="https://img.shields.io/badge/GDAL-5CA548?style=for-the-badge&logo=gdal&logoColor=white" alt="GDAL"/>
     </td>
     <td valign="top" width="50%">
-      <strong>Data Viz & Other Tools</strong><br>
+      <strong>Cloud & Visualization</strong><br>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
       <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>

@@ -44,7 +44,7 @@ My career has been dedicated to solving real-world challenges across **environme
       <strong>Geospatial & Remote Sensing</strong><br>
       <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"/>
       <img src="https://img.shields.io/badge/ArcGIS%20Pro-007AC2?style=for-the-badge" alt="ArcGIS Pro"/>
-      <img src="https://img.shields.io/badge/FME-F58220?style=for-the-badge" alt="FME"/>
+      <img src="https.img.shields.io/badge/FME-F58220?style=for-the-badge" alt="FME"/>
       <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge" alt="Google Earth Engine"/>
       <img src="https://img.shields.io/badge/GeoPandas-150458?style=for-the-badge" alt="GeoPandas"/>
       <img src="https://img.shields.io/badge/GDAL-5CA548?style=for-the-badge&logo=gdal&logoColor=white" alt="GDAL"/>
@@ -61,28 +61,31 @@ My career has been dedicated to solving real-world challenges across **environme
 
 ---
 
-### 🔬 Featured Projects & Experience
+### 🔬 Featured GitHub Projects
 
-Here are some highlights of my work.
+Here are highlights from my pinned repositories, demonstrating my skills in building full-cycle ML solutions.
 
-#### 1. Deep Learning for Satellite Object Detection
-As a GIS & Remote Sensing Specialist at the German Federal Agency for Cartography and Geodesy, I **developed and programmed end-to-end deep learning workflows for object detection** in optical satellite images.
-- **Led a project to create high-quality annotated datasets** from VHR imagery for model training.
-- **Implemented and fine-tuned models** using the TensorFlow Object Detection API and YOLOv8.
-- **Tech Used:** `TensorFlow`, `YOLOv8`, `Python`, `ArcGIS Pro`, `QGIS`.
+#### 1. Production-Grade MLOps: Building Damage Classification
+This repository demonstrates a complete, end-to-end MLOps pipeline for automated building damage assessment from satellite imagery. It showcases the entire ML lifecycle, from data and experiment management to a production-ready, containerized API.
 
-#### 2. ML for Terrestrial Oil Spill Mapping
-This project, published in the *Journal of Environmental Management*, showcases a complete ML system for detecting oil spills using multi-temporal satellite data. It successfully addressed extreme class imbalance and spectral confusion.
-- **Developed a novel change detection approach** using multi-temporal composites.
-- **Achieved >95% accuracy** validated against real-world events.
-- **Full paper available here:** [Terrestrial oil spill mapping using satellite earth observation & machine learning](https://doi.org/10.1016/j.jenvman.2021.113424).
-- **Tech Used:** `Python`, `Scikit-learn`, `Remote Sensing Libraries`, `Machine Learning`.
+- **Key Features**: Microservices architecture with JWT authentication, automated CI/CD with model promotion logic, and real-time performance monitoring.
+- **Tech Used:**
+  - **Computer Vision:** `YOLOv5`, `PyTorch`
+  - **Pipeline & Versioning:** `DVC`, `GitHub Actions (CI/CD)`
+  - **Experiment Tracking:** `MLflow`
+  - **Model Serving:** `BentoML`, `Docker`
+  - **Monitoring:** `Prometheus`, `Grafana`
 
-#### 3. Automated ETL & Data Analysis Pipelines
-Across multiple roles, including for the German Federal Office of Civil Protection, I have extensive experience building complex, automated data pipelines.
-- **Developed ETL processes** to analyze and integrate diverse geospatial datasets using FME, FME Server, ArcGIS ModelBuilder, and Python.
-- **Built interactive web applications** and custom GIS solutions for decision support at the federal level.
-- **Tech Used:** `Python`, `ArcPy`, `FME`, `SQL`, `Web Services`.
+#### 2. Multi-temporal Oil Spill Detection
+This project details a robust machine learning system for detecting terrestrial oil spills using multi-temporal Sentinel-2 imagery. The core challenge was handling extreme class imbalance and spectral confusion, which was solved through a temporal change detection methodology.
+
+- **Key Innovation**: Uses multi-temporal baseline composites to reliably detect changes and a custom data augmentation strategy to overcome extreme data scarcity. The validated approach achieved >95% accuracy with spatial constraints.
+- **Tech Used:**
+  - **Computer Vision:** `U-Net`, `PyTorch`, `Segmentation Models`
+  - **Geospatial:** `Sentinel-2`, `Microsoft Planetary Computer`
+  - **Pipeline & Versioning:** `DVC`
+  - **Experiment Tracking:** `MLflow`
+  - **Data Handling:** `GeoPandas`, `Rasterio`, `Scikit-learn`
 
 ---
 

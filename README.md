@@ -112,7 +112,7 @@ Machine learning system for detecting terrestrial oil spills using multi-tempora
 
 ## 🎯 Career Focus
 
-Transitioning from GIS analysis to **ML Engineering roles in geospatial AI**. Targeting companies building Earth observation solutions: Planet Labs, Maxar, Descartes Labs, Orbital Insight, and environmental tech startups.
+Transitioning from GIS analysis to **ML Engineering roles in geospatial AI**. Targeting institutions and companies building Earth observation solutions.
 
 **Unique Value**: Domain expertise in remote sensing + production ML engineering skills = solving problems pure data scientists can't tackle.
 
@@ -125,8 +125,6 @@ Transitioning from GIS analysis to **ML Engineering roles in geospatial AI**. Ta
 I'm always open to discussing new opportunities in ML Engineering and Geospatial AI. Feel free to connect!
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/floew2" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 

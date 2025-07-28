@@ -72,7 +72,7 @@ End-to-end MLOps pipeline for automated building damage assessment from satellit
 - Real-time monitoring and drift detection
 - Production-ready API serving
 
-**Tech Stack**: YOLOv11 • PyTorch • DVC • MLflow • GitHub Actions • BentoML • Docker • Kubernetes • Prometheus • Grafana
+**Tech Stack**: YOLOv11 • PyTorch • DVC • MLflow • GitHub Actions • BentoML • Docker • Kubernetes • Prometheus • Grafana • Evidently
 
 ### 🛰️ Multi-temporal Oil Spill Detection
 *Final development in progress*
@@ -81,7 +81,7 @@ Machine learning system for detecting terrestrial oil spills using multi-tempora
 
 **Key Features**:
 - Multi-temporal baseline composites for change detection
-- Custom augmentation for extreme data scarcity (8 reference events)
+- Custom augmentation for extreme data scarcity (only few ground validated reference events)
 - Validated approach achieving >95% accuracy with spatial constraints
 
 **Tech Stack**: PyTorch • U-Net • Sentinel-2 • DVC • MLflow • Microsoft Planetary Computer

@@ -6,7 +6,7 @@
 
 I am a Geodata Science and Machine Learning specialist with a **PhD in Remote Sensing** and **over 10 years of experience** transforming complex geospatial data into actionable intelligence. 
 
-My career has been dedicated to solving real-world challenges across **agriculture, environmental monitoring, disaster response, and criminal investigation using open-source intelligence (OSINT)**. I build robust, end-to-end ML systems—from data annotation and model development to production deployment—with a current focus on deep learning for Earth observation.
+My career has been dedicated to solving real-world challenges across **agriculture, environmental monitoring, disaster response, and criminal investigation using open-source intelligence (OSINT)**. I build robust, end-to-end ML systems—from data annotation and model development to production deployment—with a current focus on deep learning for GIS and Earth observation.
 
 ---
 

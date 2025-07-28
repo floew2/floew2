@@ -41,6 +41,7 @@ Currently building end-to-end MLOps pipelines for satellite-based damage assessm
       <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"/>
       <img src="https://img.shields.io/badge/ArcGIS%20Pro-007AC2?style=for-the-badge" alt="ArcGIS Pro"/>
       <img src="https://img.shields.io/badge/FME-FF6600?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg==&logoColor=white" alt="FME"/>
+      <img src="https://img.shields.io/badge/FME%20Flow-F58220?style=for-the-badge&logo=fme&logoColor=white" alt="FME Flow"/>
       <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge" alt="Google Earth Engine"/>
       <img src="https://img.shields.io/badge/GeoPandas-150458?style=for-the-badge" alt="GeoPandas"/>
       <img src="https://img.shields.io/badge/GDAL-5CA548?style=for-the-badge&logo=gdal&logoColor=white" alt="GDAL"/>

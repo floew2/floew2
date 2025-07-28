@@ -93,7 +93,6 @@ Machine learning system for detecting terrestrial oil spills using multi-tempora
 **Current Focus**: Advanced ML Engineering & Production Pipeline Development  
 **Previous**: GIS Analyst & Remote Sensing Consultant (10+ years)  
 **Education**: PhD-level research in environmental remote sensing and machine learning
-
 **Research Impact**: 10+ peer-reviewed publications in GIScience & Remote Sensing, Environmental Management, and Applied Remote Sensing journals.
 
 ---

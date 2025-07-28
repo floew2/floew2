@@ -101,10 +101,10 @@ A curated and evaluated collection of publicly available, high-quality annotatio
 
 ## 💼 Professional Background
 
-**Current Focus**: Advanced ML Engineering & Production Pipeline Development  
-**Previous**: GIS Analyst & Remote Sensing Consultant (10+ years)  
-**Education**: PhD-level research in environmental remote sensing and machine learning
-**Research Impact**: 10+ peer-reviewed publications in GIScience & Remote Sensing, Environmental Management, and Applied Remote Sensing journals.
+- **Current Focus**: Advanced ML Engineering & Production Pipeline Development  
+- **Previous**: GIS Analyst & Remote Sensing Consultant (10+ years)  
+- **Education**: PhD-level research in environmental remote sensing and machine learning
+- **Research Impact**: 10+ peer-reviewed publications in GIScience & Remote Sensing, Environmental Management, and Applied Remote Sensing journals.
 
 ---
 

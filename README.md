@@ -62,7 +62,7 @@ Currently building end-to-end MLOps pipelines for satellite-based damage assessm
 ## 🔬 Featured Projects
 
 ### 🚀 Production-Grade MLOps: Building Damage Classification
-*Coming Soon - Currently in final development*
+*Final development in progress*
 
 End-to-end MLOps pipeline for automated building damage assessment from satellite imagery using YOLOv11. Demonstrates complete ML lifecycle from data versioning to production deployment.
 
@@ -75,7 +75,7 @@ End-to-end MLOps pipeline for automated building damage assessment from satellit
 **Tech Stack**: YOLOv11 • PyTorch • DVC • MLflow • GitHub Actions • BentoML • Docker • Kubernetes • Prometheus • Grafana
 
 ### 🛰️ Multi-temporal Oil Spill Detection
-*Advanced ML pipeline for environmental monitoring*
+*Final development in progress*
 
 Machine learning system for detecting terrestrial oil spills using multi-temporal Sentinel-2 imagery. Handles extreme class imbalance and spectral confusion through temporal change detection.
 

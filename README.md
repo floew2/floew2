@@ -63,7 +63,7 @@ My career has been dedicated to solving real-world challenges across **environme
 
 ### 🔬 Featured Projects & Experience
 
-Here are some highlights of my work. I recommend pinning repositories related to these projects.
+Here are some highlights of my work.
 
 #### 1. Deep Learning for Satellite Object Detection
 As a GIS & Remote Sensing Specialist at the German Federal Agency for Cartography and Geodesy, I **developed and programmed end-to-end deep learning workflows for object detection** in optical satellite images.

@@ -62,7 +62,7 @@ Currently building end-to-end MLOps pipelines for satellite-based damage assessm
 
 ## 🔬 Featured Projects
 
-### 🚀 Production-Grade MLOps: Building Damage Classification
+### 🏚️ Production-Grade MLOps: Building Damage Classification
 *Final development in progress*
 
 End-to-end MLOps pipeline for automated building damage assessment from satellite imagery using YOLOv11. Demonstrates complete ML lifecycle from data versioning to production deployment.
@@ -86,6 +86,16 @@ Machine learning system for detecting terrestrial oil spills using multi-tempora
 - Validated approach achieving >95% accuracy with spatial constraints
 
 **Tech Stack**: PyTorch • U-Net • Sentinel-2 • DVC • MLflow • Microsoft Planetary Computer
+
+### 📚 Curated Annotation Datasets for Remote Sensing
+*A community resource for accelerating geospatial AI*
+
+A curated and evaluated collection of publicly available, high-quality annotation datasets for remote sensing. This repository acts as a knowledge hub to help researchers and engineers find reliable data for training computer vision models on satellite and aerial imagery.
+
+**Key Features**:
+- Overview  and categorization of datasets by application (e.g., building footprint extraction, road segmentation, ship detection).
+- Direct links to data sources and relevant academic papers.
+- Clear criteria for inclusion, focusing on data quality, documentation, and accessibility.
 
 ---
 

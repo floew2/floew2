@@ -1,15 +1,13 @@
 # Hi there, I'm Fabian 👋
 
-I am a Geodata Science and Machine Learning specialist with a **PhD in Remote Sensing** and **over 10 years of experience** transforming complex geospatial data into actionable intelligence. 
-
-My career has been dedicated to solving real-world challenges across **agriculture, environmental monitoring, disaster response, and criminal investigation using open-source intelligence (OSINT)**. I build robust, end-to-end ML systems—from data annotation and model development to production deployment—with a current focus on deep learning for GIS and Earth observation.
+Currently building end-to-end MLOps pipelines for satellite-based damage assessment and environmental monitoring. Combining 10+ years of research and hands-on geospatial expertise with modern ML engineering practices to solve real-world problems across agriculture, development cooperation, civil protection, and geointelligence applications.
 
 ---
 
 ### 🔭 My Current Focus
 
-- 🛰️ **End-to-End MLOps:** Architecting and implementing automated pipelines for training, deploying, and monitoring computer vision models at scale.
-- 🌍 **Deep Learning for Earth Observation:** Developing and fine-tuning advanced models (CNNs, YOLO, Transformers) for object detection and semantic segmentation in satellite imagery.
+- 🛰️ **End-to-End MLOps:** Architecting and implementing automated pipelines for training, deploying, and monitoring ML models at scale including CI/CD pipelines, model serving, monitoring, containerization.
+- 🌍 **Computer Vision:** Developing and fine-tuning advanced models (CNNs, YOLO, Transformers) for object detection and semantic segmentation in satellite/aerial imagery.
 - 📈 **Automated Geospatial Analysis:** Creating complex data processing and analysis workflows using Python, FME, and cloud-based platforms to drive data-driven decisions.
 
 ---

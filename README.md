@@ -6,15 +6,15 @@
 
 I am a Geodata Science and Machine Learning specialist with a **PhD in Remote Sensing** and **over 10 years of experience** transforming complex geospatial data into actionable intelligence. 
 
-[cite_start]My career has been dedicated to solving real-world challenges across **environmental monitoring, disaster response, agriculture, and humanitarian aid**[cite: 4]. I build robust, end-to-end ML systems—from data annotation and model development to production deployment—with a special focus on deep learning for Earth observation.
+My career has been dedicated to solving real-world challenges across **environmental monitoring, disaster response, and even criminal investigation using open-source intelligence (OSINT)**. I build robust, end-to-end ML systems—from data annotation and model development to production deployment—with a special focus on deep learning for Earth observation.
 
 ---
 
 ### 🔭 My Current Focus
 
 - 🛰️ **End-to-End MLOps:** Architecting and implementing automated pipelines for training, deploying, and monitoring computer vision models at scale.
-- [cite_start]🌍 **Deep Learning for Earth Observation:** Developing and fine-tuning advanced models (CNNs, YOLO, Transformers) for object detection and semantic segmentation in satellite imagery[cite: 14, 47].
-- [cite_start]📈 **Automated Geospatial Analysis:** Creating complex data processing and analysis workflows using Python, FME, and cloud-based platforms to drive data-driven decisions[cite: 41, 85].
+- 🌍 **Deep Learning for Earth Observation:** Developing and fine-tuning advanced models (CNNs, YOLO, Transformers) for object detection and semantic segmentation in satellite imagery.
+- 📈 **Automated Geospatial Analysis:** Creating complex data processing and analysis workflows using Python, FME, and cloud-based platforms to drive data-driven decisions.
 
 ---
 
@@ -66,34 +66,34 @@ I am a Geodata Science and Machine Learning specialist with a **PhD in Remote Se
 Here are some highlights of my work. I recommend pinning repositories related to these projects.
 
 #### 1. Deep Learning for Satellite Object Detection
-[cite_start]As a GIS & Remote Sensing Specialist at the German Federal Agency for Cartography and Geodesy, I **developed and programmed end-to-end deep learning workflows for object detection** in optical satellite images[cite: 47].
-- [cite_start]**Led a project to create high-quality annotated datasets** from VHR imagery for model training[cite: 48].
-- [cite_start]**Implemented and fine-tuned models** using the TensorFlow Object Detection API and YOLOv8[cite: 47].
+As a GIS & Remote Sensing Specialist at the German Federal Agency for Cartography and Geodesy, I **developed and programmed end-to-end deep learning workflows for object detection** in optical satellite images.
+- **Led a project to create high-quality annotated datasets** from VHR imagery for model training.
+- **Implemented and fine-tuned models** using the TensorFlow Object Detection API and YOLOv8.
 - **Tech Used:** `TensorFlow`, `YOLOv8`, `Python`, `ArcGIS Pro`, `QGIS`.
 
 #### 2. ML for Terrestrial Oil Spill Mapping
 This project, published in the *Journal of Environmental Management*, showcases a complete ML system for detecting oil spills using multi-temporal satellite data. It successfully addressed extreme class imbalance and spectral confusion.
 - **Developed a novel change detection approach** using multi-temporal composites.
 - **Achieved >95% accuracy** validated against real-world events.
-- [cite_start]**Full paper available here:** [Terrestrial oil spill mapping using satellite earth observation & machine learning](https://doi.org/10.1016/j.jenvman.2021.113424)[cite: 108, 109].
+- **Full paper available here:** [Terrestrial oil spill mapping using satellite earth observation & machine learning](https://doi.org/10.1016/j.jenvman.2021.113424).
 - **Tech Used:** `Python`, `Scikit-learn`, `Remote Sensing Libraries`, `Machine Learning`.
 
 #### 3. Automated ETL & Data Analysis Pipelines
 Across multiple roles, including for the German Federal Office of Civil Protection, I have extensive experience building complex, automated data pipelines.
-- [cite_start]**Developed ETL processes** to analyze and integrate diverse geospatial datasets using FME, FME Server, ArcGIS ModelBuilder, and Python[cite: 85].
-- [cite_start]**Built interactive web applications** and custom GIS solutions for decision support at the federal level[cite: 83, 86].
+- **Developed ETL processes** to analyze and integrate diverse geospatial datasets using FME, FME Server, ArcGIS ModelBuilder, and Python.
+- **Built interactive web applications** and custom GIS solutions for decision support at the federal level.
 - **Tech Used:** `Python`, `ArcPy`, `FME`, `SQL`, `Web Services`.
 
 ---
 
 ### 🎓 Key Certifications & Education
 
-- [cite_start]**PhD in Natural Sciences (Machine Learning & Remote Sensing)**, University of Würzburg[cite: 19, 20, 21].
-- [cite_start]**TensorFlow Developer Certificate**, Google[cite: 54, 55].
-- [cite_start]**Data Scientist Certificate**, Sorbonne Université[cite: 56, 57].
-- [cite_start]**AI Manager (KI-Manager)**, Chamber of Industry and Commerce (IHK)[cite: 52, 53].
-- [cite_start]**Certified FME Professional**, Safe Software[cite: 64, 65].
-- [cite_start]**Professional Scrum Master™ (PSM I™)**, Scrum.org[cite: 58, 59].
+- **PhD in Natural Sciences (Machine Learning & Remote Sensing)**, University of Würzburg.
+- **TensorFlow Developer Certificate**, Google.
+- **Data Scientist Certificate**, Sorbonne Université.
+- **AI Manager (KI-Manager)**, Chamber of Industry and Commerce (IHK).
+- **Certified FME Professional**, Safe Software.
+- **Professional Scrum Master™ (PSM I™)**, Scrum.org.
 
 ---
 
@@ -102,6 +102,5 @@ Across multiple roles, including for the German Federal Office of Civil Protecti
 I am always open to discussing new opportunities in ML Engineering and Geospatial AI. Feel free to connect with me.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your_username/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/floew2" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>

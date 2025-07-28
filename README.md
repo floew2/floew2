@@ -1,58 +1,107 @@
-# Hi there 👋
+<p align="center">
+  <img src="URL_TO_YOUR_BANNER_IMAGE" alt="Geospatial AI & Earth Observation Banner"/>
+</p>
 
-**About me:** I am a geospatial data scientist. This site is under construction, new repos from  projects about satellite based crop type mapping, terrestrial oil spill detection, or armed conflict prediction with open source data will follow soon...
+# Hi there, I'm Florian 👋
 
-**Languages & Tools that I use:** Python, R, JavaScript, Google Earth Engine, TensorFlow, ESRI ArcGIS, QGIS, FME Desktop / Server, KNIME
+I am a Geodata Science and Machine Learning specialist with a **PhD in Remote Sensing** and **over 10 years of experience** transforming complex geospatial data into actionable intelligence. 
 
-### Certifications
-* TensorFlow Developer Certificate
-* FME Certified Professional
-* IHK Data Analyst
+[cite_start]My career has been dedicated to solving real-world challenges across **environmental monitoring, disaster response, agriculture, and humanitarian aid**[cite: 4]. I build robust, end-to-end ML systems—from data annotation and model development to production deployment—with a special focus on deep learning for Earth observation.
 
-### Code snippets
-https://gist.github.com/floew2
+---
 
-### My ESRI StoryMaps
-https://arcg.is/140m0C2
+### 🔭 My Current Focus
 
-### Selected GIS and remote sensing publications:
+- 🛰️ **End-to-End MLOps:** Architecting and implementing automated pipelines for training, deploying, and monitoring computer vision models at scale.
+- [cite_start]🌍 **Deep Learning for Earth Observation:** Developing and fine-tuning advanced models (CNNs, YOLO, Transformers) for object detection and semantic segmentation in satellite imagery[cite: 14, 47].
+- [cite_start]📈 **Automated Geospatial Analysis:** Creating complex data processing and analysis workflows using Python, FME, and cloud-based platforms to drive data-driven decisions[cite: 41, 85].
 
-2022		
-* Löw, F. et al. (2022). Land cover change detection in the Aralkum with multi-source satellite datasets. GIScience & Remote Sensing, 59(1), 17–35. https://doi.org/10.1080/15481603.2021.2009232
-* Dimov, D., Uhl, J. H., Löw, F., & Seboka, G. N. (2022). Sugarcane yield estimation through remote sensing time series and phenology metrics. Smart Agricultural Technology, 2, 100046. https://doi.org/https://doi.org/10.1016/j.atech.2022.100046
+---
 
-2021		
-* Löw, F., Stieglitz, K., & Diemar, O. (2021). Terrestrial oil spill mapping using satellite earth observation & machine learning : A case study in South Sudan. Journal of Environmental Management, 298. https://doi.org/10.1016/j.jenvman.2021.113424 
+### 🛠️ My Tech Stack
 
-2019
-* Dimov, D., Löw, F., Uhl, J. H., Kenjabaev, S., Dubovyk, O., Ibrakhimov, M., & Biradar, C. (2019). Framework for agricultural performance assessment based on MODIS multitemporal data. Journal of Applied Remote Sensing, 13(2), 025501.
-* Dubovyk, O., Ghazaryan, G., González, J., Graw, V., Löw, F., & Schreier, J. (2019). Drought hazard in Kazakhstan in 2000–2016: a remote sensing perspective. Environmental monitoring and assessment, 191(8), 1-17.
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>ML & Data Science</strong><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+      <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+    </td>
+    <td valign="top" width="50%">
+      <strong>MLOps & DevOps</strong><br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+      <img src="https://img.shields.io/badge/BentoML-FF69B4?style=for-the-badge" alt="BentoML"/>
+      <img src="https://img.shields.io/badge/DVC-8A2BE2?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC"/>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Geospatial & Remote Sensing</strong><br>
+      <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"/>
+      <img src="https://img.shields.io/badge/ArcGIS%20Pro-007AC2?style=for-the-badge" alt="ArcGIS Pro"/>
+      <img src="https://img.shields.io/badge/FME-F58220?style=for-the-badge" alt="FME"/>
+      <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge" alt="Google Earth Engine"/>
+      <img src="https://img.shields.io/badge/GeoPandas-150458?style=for-the-badge" alt="GeoPandas"/>
+      <img src="https://img.shields.io/badge/GDAL-5CA548?style=for-the-badge&logo=gdal&logoColor=white" alt="GDAL"/>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Data Viz & Other Tools</strong><br>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+    </td>
+  </tr>
+</table>
 
+---
 
-2017		
-* Löw, F. et al. (2017). Regional-scale monitoring of cropland intensity & productivity with multi-source satellite image time series. GIScience & Remote Sensing, 55(4), 1–29. https://doi.org/10.1080/15481603.2017.1414010
-* Waldner, F., Hansen, M. C. M. C., Potapov, P. V., Löw, F., Newby, T., Ferreira, S., & Defourny, P. (2017). National-scale cropland mapping based on spectral-temporal features and outdated land cover information. Plos One, 12(8). https://doi.org/10.1371/journal.pone.0181911
+### 🔬 Featured Projects & Experience
 
+Here are some highlights of my work. I recommend pinning repositories related to these projects.
 
-2013
-* Löw, F., Navratil, P., Kotte, K., Schöler, H. F. F., & Bubenzer, O. (2013). Remote sensing based analysis of landscape change in the desiccated seabed of the Aral Sea - A potential tool for assessing the hazard degree of dust and salt storms. Environmental Monitoring and Assessment, 185(10), 8303–8319. https://doi.org/10.1007/s10661-013-3174-7
+#### 1. Deep Learning for Satellite Object Detection
+[cite_start]As a GIS & Remote Sensing Specialist at the German Federal Agency for Cartography and Geodesy, I **developed and programmed end-to-end deep learning workflows for object detection** in optical satellite images[cite: 47].
+- [cite_start]**Led a project to create high-quality annotated datasets** from VHR imagery for model training[cite: 48].
+- [cite_start]**Implemented and fine-tuned models** using the TensorFlow Object Detection API and YOLOv8[cite: 47].
+- **Tech Used:** `TensorFlow`, `YOLOv8`, `Python`, `ArcGIS Pro`, `QGIS`.
 
+#### 2. ML for Terrestrial Oil Spill Mapping
+This project, published in the *Journal of Environmental Management*, showcases a complete ML system for detecting oil spills using multi-temporal satellite data. It successfully addressed extreme class imbalance and spectral confusion.
+- **Developed a novel change detection approach** using multi-temporal composites.
+- **Achieved >95% accuracy** validated against real-world events.
+- [cite_start]**Full paper available here:** [Terrestrial oil spill mapping using satellite earth observation & machine learning](https://doi.org/10.1016/j.jenvman.2021.113424)[cite: 108, 109].
+- **Tech Used:** `Python`, `Scikit-learn`, `Remote Sensing Libraries`, `Machine Learning`.
 
-2012
-* Kotte, K., Löw, F., Huber, S. G., Krause, T., Mulder, I., & Schöler, H. F. (2012). Organohalogen emissions from saline environments-spatial extrapolation using remote sensing as most promising tool. Biogeosciences, 9(3). https://doi.org/10.5194/bg-9-1225-2012
+#### 3. Automated ETL & Data Analysis Pipelines
+Across multiple roles, including for the German Federal Office of Civil Protection, I have extensive experience building complex, automated data pipelines.
+- [cite_start]**Developed ETL processes** to analyze and integrate diverse geospatial datasets using FME, FME Server, ArcGIS ModelBuilder, and Python[cite: 85].
+- [cite_start]**Built interactive web applications** and custom GIS solutions for decision support at the federal level[cite: 83, 86].
+- **Tech Used:** `Python`, `ArcPy`, `FME`, `SQL`, `Web Services`.
 
+---
 
-<!--
-**floew2/floew2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Key Certifications & Education
 
-Here are some ideas to get you started:
+- [cite_start]**PhD in Natural Sciences (Machine Learning & Remote Sensing)**, University of Würzburg[cite: 19, 20, 21].
+- [cite_start]**TensorFlow Developer Certificate**, Google[cite: 54, 55].
+- [cite_start]**Data Scientist Certificate**, Sorbonne Université[cite: 56, 57].
+- [cite_start]**AI Manager (KI-Manager)**, Chamber of Industry and Commerce (IHK)[cite: 52, 53].
+- [cite_start]**Certified FME Professional**, Safe Software[cite: 64, 65].
+- [cite_start]**Professional Scrum Master™ (PSM I™)**, Scrum.org[cite: 58, 59].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Let's Connect
+
+I am always open to discussing new opportunities in ML Engineering and Geospatial AI. Feel free to connect with me.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your_username/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/floew2" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  </p>

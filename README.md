@@ -59,7 +59,7 @@ My career has been dedicated to solving real-world challenges across **agricultu
 
 ### 🔬 Featured GitHub Projects
 
-Here are highlights from my pinned repositories, demonstrating my skills in building full-cycle ML solutions.
+Here are highlights from my pinned repositories.
 
 #### 1. Production-Grade MLOps: Building Damage Classification
 This repository demonstrates a complete, end-to-end MLOps pipeline for automated building damage assessment from satellite imagery. It showcases the entire ML lifecycle, from data and experiment management to a production-ready, containerized API.

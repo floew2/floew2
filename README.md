@@ -2,7 +2,7 @@
   <img src="URL_TO_YOUR_BANNER_IMAGE" alt="Geospatial AI & Earth Observation Banner"/>
 </p>
 
-# Hi there, I'm Florian 👋
+# Hi there, I'm Fabian 👋
 
 I am a Geodata Science and Machine Learning specialist with a **PhD in Remote Sensing** and **over 10 years of experience** transforming complex geospatial data into actionable intelligence. 
 

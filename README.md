@@ -91,7 +91,8 @@ This project details a robust machine learning system for detecting terrestrial 
 
 ### 🎓 Key Certifications & Education
 
-- **PhD in Natural Sciences (Machine Learning & Remote Sensing)**, University of Würzburg.
+- **CAS in Advanced Machine Learning & ML Engineering)**, ZHAW Switzerland (running).
+- **PhD in Natural Sciences (Machine Learning & Remote Sensing)**.
 - **TensorFlow Developer Certificate**, Google.
 - **Data Scientist Certificate**, Sorbonne Université.
 - **AI Manager (KI-Manager)**, Chamber of Industry and Commerce (IHK).

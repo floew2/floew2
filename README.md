@@ -91,24 +91,13 @@ A curated and evaluated collection of publicly available, high-quality annotatio
 
 ## 💼 Professional Background
 
-- **Current Focus**: Advanced ML Engineering & Production Pipeline Development  
+- **Current Focus**: Transitioning into ML Engineering & Production Pipeline Development  
 - **Previous**: GIS Analyst & Remote Sensing Consultant (10+ years)  
 - **Education**: PhD-level research in environmental remote sensing and machine learning
-- **Research Impact**: 10+ peer-reviewed publications in GIScience & Remote Sensing, Environmental Management, and Applied Remote Sensing journals.
+- **Research**: 10+ peer-reviewed publications in GIScience & Remote Sensing, Environmental Management, and Applied Remote Sensing journals.
 
 ---
 
-## 🎓 Key Certifications
-
-- **CAS in Advanced Machine Learning & ML Engineering**, ZHAW Switzerland *(current)*
-- **PhD in Natural Sciences (Machine Learning & Remote Sensing)**
-- **TensorFlow Developer Certificate**, Google
-- **Data Scientist Certificate**, Sorbonne Université
-- **AI Manager (KI-Manager)**, Chamber of Industry and Commerce (IHK)
-- **Certified FME Professional**, Safe Software
-- **Professional Scrum Master™ (PSM I™)**, Scrum.org
-
----
 
 ## 🎯 Career Focus
 

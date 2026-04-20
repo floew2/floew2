@@ -1,16 +1,6 @@
 # GIS Analyst
 
-Currently building end-to-end MLOps pipelines for satellite-based damage assessment and environmental monitoring. Combining 10+ years of hands-on geospatial expertise with modern ML engineering practices to solve real-world problems across **agriculture, development cooperation, civil protection, and geointelligence applications**.
-
----
-
-## 🎯 What I Do
-
-**ML Engineer specializing in geospatial AI applications:**
-- **Production MLOps**: CI/CD pipelines, model serving, monitoring, containerization
-- **Computer Vision**: Object detection and segmentation on satellite/aerial imagery  
-- **Domain Expertise**: Remote sensing, GIS analysis, environmental monitoring
-- **End-to-end ownership**: Research → development → deployment → monitoring
+Currently building end-to-end geoprocessing pipelines for satellite-based damage assessment and environmental monitoring. Combining 10+ years of hands-on geospatial expertise with modern ML engineering practices to solve real-world problems across **agriculture, development cooperation, civil protection, and geointelligence applications**.
 
 ---
 

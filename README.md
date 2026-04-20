@@ -1,6 +1,6 @@
 # GIS & Remote Sensing Analyst
 *Geographer by heart, Geodata Scientist by choice.*
-Currently building end-to-end geoprocessing pipelines for satellite-based damage assessment and environmental monitoring to tackle environmental crimes. Combining 10+ years of hands-on geospatial expertise with modern ML engineering practices to solve real-world problems across **agriculture, development cooperation, civil protection, and geointelligence applications**.
+Currently building geoprocessing pipelines for satellite-based damage assessment (caused by natural disasters or conflict) and environmental monitoring to tackle environmental crimes via satellite images. Combining 10+ years of hands-on geospatial expertise with modern ML engineering practices to solve real-world problems across **agriculture, development cooperation, civil protection, and geointelligence applications**.
 
 ---
 

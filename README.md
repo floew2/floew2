@@ -50,12 +50,12 @@ Currently building geoprocessing pipelines for satellite-based damage assessment
 
 ---
 
-## 🔬 Recent Projects (combining GIS, AI & Remote Sensing)
+## 🔬 Recent Projects
 
-### 🏚️ Production-Grade MLOps: Building Damage Classification
+### 🏚️ Building Damage Classification
 *Refining the deployment architecture*
 
-End-to-end MLOps pipeline for automated building damage assessment from satellite imagery using YOLOv11. Demonstrates complete ML lifecycle from data versioning to production deployment.
+End-to-end MLOps pipeline for automated building damage assessment from satellite imagery using YOLOv11. ML lifecycle from data versioning to production deployment.
 
 **Key Features**:
 - Microservices architecture with JWT authentication
@@ -79,7 +79,7 @@ Machine learning system for detecting terrestrial oil spills using multi-tempora
 
 ### 📚 Curated Annotation Datasets for Remote Sensing
 
-A curated and evaluated collection of publicly available, high-quality annotation datasets for remote sensing. This repository acts as a knowledge hub to help researchers and engineers find reliable data for training computer vision models on satellite and aerial imagery.
+A curated and evaluated collection of publicly available, high-quality annotation datasets for remote sensing. This repository contains some reliable data for training computer vision models on satellite and aerial imagery.
 
 **Key Features**:
 - Overview  and categorization of datasets by application (e.g., building footprint extraction, road segmentation, ship detection).

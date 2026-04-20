@@ -1,6 +1,7 @@
-# GIS & Remote Sensing Analyst
+# Geospatial Data Scientist
+
 *Geographer by heart, Geodata Scientist by choice.*
-Currently building geoprocessing pipelines for satellite-based damage assessment (caused by natural disasters or conflict) and environmental monitoring to tackle environmental crimes via satellite images. Combining 10+ years of hands-on geospatial expertise with modern ML engineering practices to solve real-world problems across **agriculture, development cooperation, civil protection, and geointelligence applications**.
+Building (geo-)data pipelines and geoprocessing workflows — from ETL automation and data modeling to satellite-based damage assessment (caused by natural disasters or conflict) and environmental monitoring to tackle environmental crimes via satellite images. Combining 10+ years of hands-on geospatial expertise with modern ML engineering practices to solve real-world problems across **agriculture, development cooperation, civil protection, and geointelligence applications**.
 
 ---
 
@@ -53,38 +54,38 @@ Currently building geoprocessing pipelines for satellite-based damage assessment
 ## 🔬 Recent Projects
 
 ### 🏚️ Building Damage Classification
-*Refining the deployment architecture*
+*Under active development*
 
-End-to-end MLOps pipeline for automated building damage assessment from satellite imagery using YOLOv11. ML lifecycle from data versioning to production deployment.
+End-to-end MLOps pipeline for automated building damage assessment from satellite imagery using YOLOv11. Full ML lifecycle from data versioning to production deployment.
 
 **Key Features**:
-- Microservices architecture with JWT authentication
-- Automated CI/CD with model promotion logic
-- Real-time monitoring and drift detection
-- Production-ready API serving
+- Microservices architecture with JWT authentication.
+- Automated CI/CD with model promotion logic.
+- Real-time monitoring and drift detection.
+- Production-ready API serving.
 
 **Tech Stack**: YOLOv11 • PyTorch • DVC • MLflow • GitHub Actions • BentoML • Docker • Kubernetes • Prometheus • Grafana • Evidently
 
 ### 🛰️ Multi-temporal Oil Spill Detection
-*Optimizing model performance for edge cases, adressing sparse training data challenge*
+*Under active development*
 
 Machine learning system for detecting terrestrial oil spills using multi-temporal Sentinel-2 imagery. Handles extreme class imbalance and spectral confusion through temporal change detection.
 
 **Key Features**:
-- Multi-temporal baseline composites for change detection
-- Custom augmentation for extreme data scarcity (only few ground validated reference events)
-- Validated approach achieving >95% accuracy with spatial constraints
+- Multi-temporal baseline composites for change detection.
+- Custom augmentation for extreme data scarcity (only few ground validated reference events).
+- Validated approach achieving >95% accuracy with spatial constraints.
 
 **Tech Stack**: PyTorch • U-Net • Sentinel-2 • DVC • MLflow • Microsoft Planetary Computer
 
 ### 📚 Curated Annotation Datasets for Remote Sensing
 
-A curated and evaluated collection of publicly available, high-quality annotation datasets for remote sensing. This repository contains some reliable data for training computer vision models on satellite and aerial imagery.
+A curated and evaluated collection of publicly available, high-quality annotation datasets for training computer vision models on satellite and aerial imagery.
 
 **Key Features**:
-- Overview  and categorization of datasets by application (e.g., building footprint extraction, road segmentation, ship detection).
+- Overview and categorization of datasets by application (building footprint extraction, road segmentation, ship detection).
 - Direct links to data sources and relevant academic papers.
-- Clear criteria for inclusion, focusing on data quality, documentation, and accessibility.
+- Clear criteria for inclusion, focusing on data quality, documentation, and accessibility
 
 ---
 
@@ -100,20 +101,10 @@ A curated and evaluated collection of publicly available, high-quality annotatio
 
 ## 🎯 Focus
 
-I am looking for roles where geospatial domain knowledge is recognized as the foundation for successful AI. I target organizations that value the synergy between geospatial data craft and modern Data Science and AI methods.
-
-**Unique Value**: A mix of expertise in remote sensing combined with production-grade (geo-data) ETL pipelines and  a modern MLOps toolkit.
-
 **Technical Specializations**: 
 * **Core**: Computer Vision for Earth Observation (CV4EO) • Multi-temporal Change Detection • VHR Image Analysis
 * **Applications**: Agricultural Monitoring • Environmental Assessment • Geointelligence & OSINT
 
 ---
 
-## 📫 Let's Connect
 
-I'm always open to discussing new opportunities in ML Engineering and Geospatial AI. Feel free to connect!
-
-<p align="left">
-  <a href="https://github.com/floew2" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>

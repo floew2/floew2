@@ -99,12 +99,3 @@ A curated and evaluated collection of publicly available, high-quality annotatio
 ---
 
 
-## 🎯 Focus
-
-**Technical Specializations**: 
-* **Core**: Computer Vision for Earth Observation (CV4EO) • Multi-temporal Change Detection • VHR Image Analysis
-* **Applications**: Agricultural Monitoring • Environmental Assessment • Geointelligence & OSINT
-
----
-
-

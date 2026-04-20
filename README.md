@@ -98,7 +98,7 @@ A curated and evaluated collection of publicly available, high-quality annotatio
 ---
 
 
-## 🎯 Career Focus
+## 🎯 Focus
 
 I am looking for roles where geospatial domain knowledge is recognized as the foundation for successful AI. I target organizations that value the synergy between geospatial data craft and modern Data Science and AI methods.
 

@@ -116,7 +116,3 @@ I'm always open to discussing new opportunities in ML Engineering and Geospatial
 <p align="left">
   <a href="https://github.com/floew2" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
-
----
-
-*"The future of Earth observation lies at the intersection of domain expertise and modern ML engineering. That's exactly where I operate."*

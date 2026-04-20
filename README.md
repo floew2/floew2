@@ -50,7 +50,7 @@ Currently building end-to-end geoprocessing pipelines for satellite-based damage
 
 ---
 
-## 🔬 Featured Projects
+## 🔬 Recent Projects (combining GIS, AI & Remote Sensing)
 
 ### 🏚️ Production-Grade MLOps: Building Damage Classification
 *Final development in progress*
@@ -78,7 +78,6 @@ Machine learning system for detecting terrestrial oil spills using multi-tempora
 **Tech Stack**: PyTorch • U-Net • Sentinel-2 • DVC • MLflow • Microsoft Planetary Computer
 
 ### 📚 Curated Annotation Datasets for Remote Sensing
-*A community resource for accelerating geospatial AI*
 
 A curated and evaluated collection of publicly available, high-quality annotation datasets for remote sensing. This repository acts as a knowledge hub to help researchers and engineers find reliable data for training computer vision models on satellite and aerial imagery.
 
@@ -101,11 +100,11 @@ A curated and evaluated collection of publicly available, high-quality annotatio
 
 ## 🎯 Career Focus
 
-Transitioning from GIS analysis to **ML Engineering roles in geospatial AI**. Targeting institutions and companies building Earth observation solutions.
+Targeting organizations that value the synergy between geospatial data craft and modern Data Science and AI methods.
 
-**Unique Value**: Domain expertise in remote sensing + production ML engineering skills = solving problems pure data scientists can't tackle.
+**Unique Value**: Domain expertise in remote sensing combined with production-grade (geo-data) ETL pipelines and ML engineering skills.
 
-**Specializations**: Multi-temporal analysis • Change detection • Very high resolution optical satellite image analysis • Agricultural monitoring • Environmental assessment • Geointelligence applications
+**Technical Specializations**: GIS  • Computer Vision for Earth Observation • Multi-temporal analysis • Change detection • Very high-resolution (VHR) optical satellite image analysis • Agricultural monitoring • Environmental assessment • Geointelligence & OSINT applications
 
 ---
 

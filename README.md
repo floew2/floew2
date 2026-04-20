@@ -1,4 +1,4 @@
-# GIS Analyst
+# GIS & Remote Sensing Analyst
 
 Currently building end-to-end geoprocessing pipelines for satellite-based damage assessment and environmental monitoring. Combining 10+ years of hands-on geospatial expertise with modern ML engineering practices to solve real-world problems across **agriculture, development cooperation, civil protection, and geointelligence applications**.
 

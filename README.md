@@ -59,10 +59,10 @@ Building (geo-)data pipelines and geoprocessing workflows — from ETL automatio
 End-to-end MLOps pipeline for automated building damage assessment from satellite imagery using YOLOv11. Full ML lifecycle from data versioning to production deployment.
 
 **Key Features**:
-- Microservices architecture with JWT authentication.
-- Automated CI/CD with model promotion logic.
-- Real-time monitoring and drift detection.
-- Production-ready API serving.
+- Microservices architecture with JWT authentication
+- Automated CI/CD with model promotion logic
+- Real-time monitoring and drift detection
+- Production-ready API serving
 
 **Tech Stack**: YOLOv11 • PyTorch • DVC • MLflow • GitHub Actions • BentoML • Docker • Kubernetes • Prometheus • Grafana • Evidently
 
@@ -72,9 +72,9 @@ End-to-end MLOps pipeline for automated building damage assessment from satellit
 Machine learning system for detecting terrestrial oil spills using multi-temporal Sentinel-2 imagery. Handles extreme class imbalance and spectral confusion through temporal change detection.
 
 **Key Features**:
-- Multi-temporal baseline composites for change detection.
-- Custom augmentation for extreme data scarcity (only few ground validated reference events).
-- Validated approach achieving >95% accuracy with spatial constraints.
+- Multi-temporal baseline composites for change detection
+- Custom augmentation for extreme data scarcity (only few ground validated reference events)
+- Validated approach achieving >95% accuracy with spatial constraints
 
 **Tech Stack**: PyTorch • U-Net • Sentinel-2 • DVC • MLflow • Microsoft Planetary Computer
 
@@ -83,18 +83,18 @@ Machine learning system for detecting terrestrial oil spills using multi-tempora
 A curated and evaluated collection of publicly available, high-quality annotation datasets for training computer vision models on satellite and aerial imagery.
 
 **Key Features**:
-- Overview and categorization of datasets by application (building footprint extraction, road segmentation, ship detection).
-- Direct links to data sources and relevant academic papers.
+- Overview and categorization of datasets by application (building footprint extraction, road segmentation, ship detection)
+- Direct links to data sources and relevant academic papers
 - Clear criteria for inclusion, focusing on data quality, documentation, and accessibility
 
 ---
 
 ## 💼 Professional Background
 
-- **Current Focus**: Transitioning into ML Engineering & Production Pipeline Development  
-- **Previous**: GIS Analyst & Remote Sensing Consultant (10+ years)  
-- **Education**: PhD-level research in environmental remote sensing and machine learning
-- **Research**: 10+ peer-reviewed publications in GIScience & Remote Sensing, Environmental Management, and Applied Remote Sensing journals.
+- **Current Focus**: GIS & Data Science Specialist  
+- **Previous**: Remote Sensing & ML Specialist (10+ years)  
+- **Education**: PhD in Environmental Remote Sensing & Machine Learning
+- **Research**: 10+ peer-reviewed publications in GIScience & Remote Sensing, Environmental Management, and Applied Remote Sensing
 
 ---
 

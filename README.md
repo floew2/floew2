@@ -53,7 +53,7 @@ Currently building end-to-end geoprocessing pipelines for satellite-based damage
 ## 🔬 Recent Projects (combining GIS, AI & Remote Sensing)
 
 ### 🏚️ Production-Grade MLOps: Building Damage Classification
-*Final development in progress*
+*Refining the deployment architecture*
 
 End-to-end MLOps pipeline for automated building damage assessment from satellite imagery using YOLOv11. Demonstrates complete ML lifecycle from data versioning to production deployment.
 
@@ -66,7 +66,7 @@ End-to-end MLOps pipeline for automated building damage assessment from satellit
 **Tech Stack**: YOLOv11 • PyTorch • DVC • MLflow • GitHub Actions • BentoML • Docker • Kubernetes • Prometheus • Grafana • Evidently
 
 ### 🛰️ Multi-temporal Oil Spill Detection
-*Final development in progress*
+*Optimizing model performance for edge cases, adressing sparse training data challenge*
 
 Machine learning system for detecting terrestrial oil spills using multi-temporal Sentinel-2 imagery. Handles extreme class imbalance and spectral confusion through temporal change detection.
 
@@ -100,11 +100,13 @@ A curated and evaluated collection of publicly available, high-quality annotatio
 
 ## 🎯 Career Focus
 
-Targeting organizations that value the synergy between geospatial data craft and modern Data Science and AI methods.
+I am looking for roles where geospatial domain knowledge is recognized as the foundation for successful AI. I target organizations that value the synergy between geospatial data craft and modern Data Science and AI methods.
 
-**Unique Value**: Domain expertise in remote sensing combined with production-grade (geo-data) ETL pipelines and ML engineering skills.
+**Unique Value**: A mix of expertise in remote sensing combined with production-grade (geo-data) ETL pipelines and  a modern MLOps toolkit.
 
-**Technical Specializations**: GIS  • Computer Vision for Earth Observation • Multi-temporal analysis • Change detection • Very high-resolution (VHR) optical satellite image analysis • Agricultural monitoring • Environmental assessment • Geointelligence & OSINT applications
+**Technical Specializations**: 
+* **Core**: Computer Vision for Earth Observation (CV4EO) • Multi-temporal Change Detection • VHR Image Analysis
+* **Applications**: Agricultural Monitoring • Environmental Assessment • Geointelligence & OSINT
 
 ---
 

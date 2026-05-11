@@ -1,6 +1,5 @@
 # Geospatial Data Scientist
 
-*Geographer by heart, Geodata Scientist by choice.*
 Building (geo-)data pipelines and geoprocessing workflows — from ETL automation and data modeling to satellite-based damage assessment (caused by natural disasters or conflict) and environmental monitoring to tackle environmental crimes via satellite images. Combining 10+ years of hands-on geospatial expertise with modern ML engineering practices to solve real-world problems across **agriculture, development cooperation, civil protection, and geointelligence applications**.
 
 ---

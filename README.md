@@ -1,6 +1,6 @@
 # Geospatial Data Scientist
 
-Building (geo-)data pipelines and geoprocessing workflows — from ETL automation and data modeling to satellite-based damage assessment (caused by natural disasters or conflict) and environmental monitoring to tackle environmental crimes via satellite images. Combining 10+ years of hands-on geospatial expertise with modern ML engineering practices to solve real-world problems across **agriculture, development cooperation, civil protection, and geointelligence applications**.
+Building (geo-)data pipelines and geoprocessing workflows — from ETL automation and data modeling to satellite-based damage assessment (caused by natural disasters or conflict) and environmental monitoring to tackle environmental crimes via satellite images. Combining 12+ years of hands-on geospatial expertise with modern ML engineering practices to solve real-world problems across **agriculture, development cooperation, civil protection, and geointelligence applications**.
 
 ---
 
@@ -23,6 +23,8 @@ Building (geo-)data pipelines and geoprocessing workflows — from ETL automatio
       <img src="https://img.shields.io/badge/BentoML-FF69B4?style=for-the-badge" alt="BentoML"/>
       <img src="https://img.shields.io/badge/DVC-8A2BE2?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC"/>
       <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+      <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX"/>
+      <img src="https://img.shields.io/badge/Evidently-4B4B4B?style=for-the-badge" alt="Evidently"/>
     </td>
   </tr>
   <tr>
@@ -39,7 +41,6 @@ Building (geo-)data pipelines and geoprocessing workflows — from ETL automatio
     <td valign="top" width="50%">
       <strong>Cloud & Visualization</strong><br>
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
       <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -55,15 +56,15 @@ Building (geo-)data pipelines and geoprocessing workflows — from ETL automatio
 ### 🏚️ Building Damage Classification
 *Under active development*
 
-End-to-end MLOps pipeline for automated building damage assessment from satellite imagery using YOLOv11. Full ML lifecycle from data versioning to production deployment.
+End-to-end MLOps pipeline for automated building damage assessment from satellite imagery using YOLO26 / RT-DETR. Full ML lifecycle from data versioning to production deployment.
 
 **Key Features**:
-- Microservices architecture with JWT authentication
+- FastAPI microservices architecture with JWT authentication, being prepared for Kubernetes deployment
 - Automated CI/CD with model promotion logic
 - Real-time monitoring and drift detection
 - Production-ready API serving
 
-**Tech Stack**: YOLOv11 • PyTorch • DVC • MLflow • GitHub Actions • BentoML • Docker • Kubernetes • Prometheus • Grafana • Evidently
+**Tech Stack**: YOLO26 • RT-DETR • PyTorch • DVC • MLflow • GitHub Actions • FastAPI • Docker • Prometheus • Grafana • Evidently
 
 ### 🛰️ Multi-temporal Oil Spill Detection
 *Under active development*
@@ -73,9 +74,22 @@ Machine learning system for detecting terrestrial oil spills using multi-tempora
 **Key Features**:
 - Multi-temporal baseline composites for change detection
 - Custom augmentation for extreme data scarcity (only few ground validated reference events)
-- Validated approach achieving >95% accuracy with spatial constraints
+- MLOps pipeline from data ingestion to containerized model serving
 
-**Tech Stack**: PyTorch • U-Net • Sentinel-2 • DVC • MLflow • Microsoft Planetary Computer
+**Tech Stack**: PyTorch • U-Net • Prithvi-EO-2.0 • Clay • Sentinel-2 • DVC • MLflow • BentoML • Docker • Microsoft Planetary Computer
+
+### 🔎 Hybrid Retrieval for Georeferenced Conflict Event Data
+*Under active development*
+
+Routed retrieval-augmented generation (RAG) system over ~28,500 georeferenced conflict events (UCDP). Combines semantic search with deterministic aggregation on a fully local LLM stack.
+
+**Key Features**:
+- Hybrid BM25 + dense retrieval fused via reciprocal rank fusion, with multi-query expansion
+- Four-path query router separating semantic retrieval, deterministic aggregation, and out-of-scope refusal
+- Source-bias surfacing and geospatial visualization of results
+- Non-circular evaluation harness (method-independent gold set, held-out recall benchmark, nDCG/MAP/MRR); 214 unit tests with CI
+
+**Tech Stack**: Python • ChromaDB • Mistral / Ministral (local) • Streamlit
 
 ### 📚 Curated Annotation Datasets for Remote Sensing
 
@@ -96,5 +110,3 @@ A curated and evaluated collection of publicly available, high-quality annotatio
 - **Research**: 10+ peer-reviewed publications in GIScience & Remote Sensing, Environmental Management, and Applied Remote Sensing
 
 ---
-
-

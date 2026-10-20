@@ -103,7 +103,7 @@ Routed retrieval-augmented generation (RAG) system over ~28,500 georeferenced co
 
 **Tech Stack**: Python • ChromaDB • Mistral / Ministral (local) • Streamlit
 
-### 📚 Curated Annotation Datasets for Remote Sensing
+### 📚 [Curated Annotation Datasets for Remote Sensing](https://github.com/floew2/remotesensing-annotation-datasets)
 
 A curated and evaluated collection of publicly available, high-quality annotation datasets for training computer vision models on satellite and aerial imagery.
 

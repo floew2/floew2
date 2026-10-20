@@ -53,6 +53,18 @@ Building (geo-)data pipelines and geoprocessing workflows — from ETL automatio
 
 ## 🔬 Recent Projects
 
+### 🌾 [Reading a Drought from Space: Switzerland 2026](https://github.com/floew2/drought-from-space-switzerland)
+
+How hard did the 2026 summer drought hit grassland in the Canton of St. Gallen? A reproducible Sentinel-2 pipeline, run from Python on Google Earth Engine, that measures grassland condition and mowing field by field in three landscapes, against a 2019–2025 baseline and MeteoSwiss station data.
+
+**Key Features**:
+- Pixel purity modelled from the Sentinel-2 point-spread function, so small, edge-dominated meadows are measured without mixed-pixel contamination
+- Result: the meadows' moisture index (NDMI) fell 23–29 % below normal, the lowest of eight years at both valley sites
+- Mowing detector validated like a model: rules frozen after tuning, then scored on 136 hand-labelled field-years including a hold-out (F1 0.87), with its drought-year failure diagnosed
+- Runs end to end on calibrated synthetic data; provenance checks refuse stale results; CI with tests
+
+**Tech Stack**: Python • Google Earth Engine • Sentinel-2 • GeoPandas • rasterio • NumPy • pandas • SciPy • pytest • GitHub Actions
+
 ### 🏚️ Building Damage Classification
 *Under active development*
 

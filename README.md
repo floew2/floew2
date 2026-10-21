@@ -66,7 +66,7 @@ How hard did the 2026 summer drought hit grassland in the Canton of St. Gallen? 
 **Tech Stack**: Python • Google Earth Engine • Sentinel-2 • GeoPandas • rasterio • NumPy • pandas • SciPy • pytest • GitHub Actions
 
 ### 🏚️ Building Damage Classification
-*Under active development*
+*🚧 Under active development · repository not yet public*
 
 End-to-end MLOps pipeline for automated building damage assessment from satellite imagery using YOLO26 / RT-DETR. Full ML lifecycle from data versioning to production deployment.
 
@@ -79,7 +79,7 @@ End-to-end MLOps pipeline for automated building damage assessment from satellit
 **Tech Stack**: YOLO26 • RT-DETR • PyTorch • DVC • MLflow • GitHub Actions • FastAPI • Docker • Prometheus • Grafana • Evidently
 
 ### 🛰️ Multi-temporal Oil Spill Detection
-*Under active development*
+*🚧 Under active development · repository not yet public*
 
 Machine learning system for detecting terrestrial oil spills using multi-temporal Sentinel-2 imagery. Handles extreme class imbalance and spectral confusion through temporal change detection.
 
@@ -91,7 +91,7 @@ Machine learning system for detecting terrestrial oil spills using multi-tempora
 **Tech Stack**: PyTorch • U-Net • Prithvi-EO-2.0 • Clay • Sentinel-2 • DVC • MLflow • BentoML • Docker • Microsoft Planetary Computer
 
 ### 🔎 Hybrid Retrieval for Georeferenced Conflict Event Data
-*Under active development*
+*🚧 Under active development. This repository mirrors the stable main branch only.*
 
 Routed retrieval-augmented generation (RAG) system over ~28,500 georeferenced conflict events (UCDP). Combines semantic search with deterministic aggregation on a fully local LLM stack.
 
@@ -116,7 +116,7 @@ A curated and evaluated collection of publicly available, high-quality annotatio
 
 ## 💼 Professional Background
 
-- **Current Focus**: GIS & Data Science Specialist  
+- **Current Focus**: Deep Learning & Remote Sensing, GIS & Data Science Specialist  
 - **Previous**: Remote Sensing & ML Specialist (10+ years)  
 - **Education**: PhD in Environmental Remote Sensing & Machine Learning
 - **Research**: 10+ peer-reviewed publications in GIScience & Remote Sensing, Environmental Management, and Applied Remote Sensing

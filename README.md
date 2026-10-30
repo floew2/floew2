@@ -78,6 +78,22 @@ End-to-end MLOps pipeline for automated building damage assessment from satellit
 
 **Tech Stack**: YOLO26 • RT-DETR • PyTorch • DVC • MLflow • GitHub Actions • FastAPI • Docker • Prometheus • Grafana • Evidently
 
+### 🔎 [Hybrid Retrieval for Georeferenced Conflict Event Data](https://github.com/floew2/rag-ucdp)
+*🚧 Under active development.*
+
+Routed retrieval-augmented generation (RAG) system over the UCDP Georeferenced Event
+Dataset. Combines semantic search with deterministic aggregation on a fully local LLM stack — no data leaves the machine, and every answer
+stays traceable to the source events behind it.
+
+**Key Features**:
+- Hybrid BM25 + dense retrieval (BGE-large-en-v1.5) fused via reciprocal rank fusion, with multi-query expansion and BGE reranker
+- Four-path query router separating semantic retrieval, deterministic aggregation, and out-of-scope refusal
+- Source-bias surfacing and geospatial visualization of results
+- Non-circular evaluation harness: method-independent gold set via 5-arm pooling, multi-event held-out recall benchmark, nDCG/MAP/MRR
+- 214 unit tests with CI; Docker setup for reproducible local runs
+
+**Tech Stack**: Python • ChromaDB • BM25Okapi • BGE-large-en-v1.5 • Mistral 7B via Ollama (local) • Streamlit • Docker
+
 ### 🛰️ Multi-temporal Oil Spill Detection
 *🚧 Under active development · repository not yet public*
 
@@ -89,19 +105,6 @@ Machine learning system for detecting terrestrial oil spills using multi-tempora
 - MLOps pipeline from data ingestion to containerized model serving
 
 **Tech Stack**: PyTorch • U-Net • Prithvi-EO-2.0 • Clay • Sentinel-2 • DVC • MLflow • BentoML • Docker • Microsoft Planetary Computer
-
-### 🔎 Hybrid Retrieval for Georeferenced Conflict Event Data
-*🚧 Under active development. This repository mirrors the stable main branch only.*
-
-Routed retrieval-augmented generation (RAG) system over ~28,500 georeferenced conflict events (UCDP). Combines semantic search with deterministic aggregation on a fully local LLM stack.
-
-**Key Features**:
-- Hybrid BM25 + dense retrieval fused via reciprocal rank fusion, with multi-query expansion
-- Four-path query router separating semantic retrieval, deterministic aggregation, and out-of-scope refusal
-- Source-bias surfacing and geospatial visualization of results
-- Non-circular evaluation harness (method-independent gold set, held-out recall benchmark, nDCG/MAP/MRR); 214 unit tests with CI
-
-**Tech Stack**: Python • ChromaDB • Mistral / Ministral (local) • Streamlit
 
 ### 📚 [Curated Annotation Datasets for Remote Sensing](https://github.com/floew2/remotesensing-annotation-datasets)
 
